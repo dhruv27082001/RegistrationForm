@@ -1,0 +1,29 @@
+.registration-form {
+    width: 900px;
+    height: 650px;
+    margin: 50px auto;
+    border: 1px solid whitesmoke;
+    background-color: whitesmoke;
+    border-radius: 30px;
+    box-sizing: border-box;
+    padding: 5px;
+}
+
+
+
+label {
+    text-decoration: solid;
+    font-weight: bold;
+    color: black !important;
+}
+
+
+.btn:hover {
+    background-color: wheat;
+    color: black;
+    font-weight: bold;
+}
+
+.class {
+    text-align: center;
+}
